@@ -1,7 +1,7 @@
 <?php
 
 
-class MrMittens extends Cat
+class MrMittens implements Cat
 {
 
     function name()

@@ -1,7 +1,7 @@
 <?php
 
 
-class Pipsqueak extends Cat
+class Pipsqueak implements Cat
 {
 
     function name()

@@ -1,7 +1,7 @@
 <?php
 
 
-class Ginger extends Cat
+class Ginger implements Cat
 {
 
     function name()

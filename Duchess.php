@@ -2,7 +2,7 @@
 
 
 
-class Duchess extends Cat
+class Duchess implements Cat
 {
 
     function name()
